@@ -14,6 +14,10 @@ app.get("/",(req,res)=>{
    res.send("Hello world"); 
 })
 
+app.get("/chef", (req,res)=>{
+    res.send(chefData);
+})
+
 
 
 app.listen(port,()=>{
