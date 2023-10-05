@@ -1,0 +1,16 @@
+{
+  "name": "indiandelightshubserver",
+  "version": "1.0.0",
+  "description": "Indian Delights Hub\" is your one-stop destination for exploring the rich and diverse world of Indian cuisine. Our platform is exclusively dedicated to the vibrant and flavorful dishes that India has to offer.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Sourav Bera",
+  "license": "ISC",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.18.2",
+    "nodemon": "^3.0.1"
+  }
+}
